@@ -35,6 +35,8 @@ creator:
 description: The children's life of the bee, by Maurice Maeterlinck -- Queen bomba
   of the honey-pots, by Charles G. D. Roberts -- Teddy bear's bee tree, by Charles
   G. D. Roberts.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38516#The-Children-s-Life-of-the-Bee
 gutenberg_bookshelf: Animals-Wild-Insects
 gutenberg_issued: '2012-01-08'
 gutenberg_type: Text
